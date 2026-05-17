@@ -45,4 +45,5 @@ body {
 }
 .key:hover {
     background-color:darkgray;
+    transition: 0.5s;
 }
